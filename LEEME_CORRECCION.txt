@@ -1,0 +1,7 @@
+CORRECCIÓN JUSTIMAP v3.1
+1. Descomprime el ZIP.
+2. Sube index.html, sw.js y manifest.webmanifest a GitHub.
+3. Reemplaza los archivos existentes.
+4. Commit: Corrige entrada principal entre accesos 2 y 3.
+5. Espera el deployment verde.
+6. Abre la app con Cmd+Shift+R o en una ventana privada.
