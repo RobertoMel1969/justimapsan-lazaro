@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Primero",
+    "nombre": "Primero Tribunal Colegiado en materia Civil",
+    "acceso": 11,
+    "nivel": "PB"
+  },
+  {
+    "id": 2,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Tribunal Colegiado en materia Civil",
+    "acceso": 11,
+    "nivel": "1"
+  },
+  {
+    "id": 3,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Tercero",
+    "nombre": "Tercero Tribunal Colegiado en materia Civil",
+    "acceso": 11,
+    "nivel": "2"
+  },
+  {
+    "id": 4,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Cuarto",
+    "nombre": "Cuarto Tribunal Colegiado en materia Civil",
+    "acceso": 10,
+    "nivel": "1"
+  },
+  {
+    "id": 5,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Quinto",
+    "nombre": "Quinto Tribunal Colegiado en materia Civil",
+    "acceso": 10,
+    "nivel": "2"
+  },
+  {
+    "id": 6,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Sexto",
+    "nombre": "Sexto Tribunal Colegiado en materia Civil",
+    "acceso": 15,
+    "nivel": "PB"
+  },
+  {
+    "id": 7,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Séptimo",
+    "nombre": "Séptimo Tribunal Colegiado en materia Civil",
+    "acceso": 15,
+    "nivel": "1"
+  },
+  {
+    "id": 8,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Octavo",
+    "nombre": "Octavo Tribunal Colegiado en materia Civil",
+    "acceso": 15,
+    "nivel": "2"
+  },
+  {
+    "id": 9,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Noveno",
+    "nombre": "Noveno Tribunal Colegiado en materia Civil",
+    "acceso": 14,
+    "nivel": "PB"
+  },
+  {
+    "id": 10,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo",
+    "nombre": "Décimo Tribunal Colegiado en materia Civil",
+    "acceso": 11,
+    "nivel": "2"
+  },
+  {
+    "id": 11,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Primero",
+    "nombre": "Décimo Primero Tribunal Colegiado en materia Civil",
+    "acceso": 6,
+    "nivel": "2"
+  },
+  {
+    "id": 12,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Segundo",
+    "nombre": "Décimo Segundo Tribunal Colegiado en materia Civil",
+    "acceso": 13,
+    "nivel": "NP"
+  },
+  {
+    "id": 13,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Tercero",
+    "nombre": "Décimo Tercero Tribunal Colegiado en materia Civil",
+    "acceso": 10,
+    "nivel": "2"
+  },
+  {
+    "id": 14,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Cuarto",
+    "nombre": "Décimo Cuarto Tribunal Colegiado en materia Civil",
+    "acceso": 10,
+    "nivel": "1"
+  },
+  {
+    "id": 15,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Quinto",
+    "nombre": "Décimo Quinto Tribunal Colegiado en materia Civil",
+    "acceso": 10,
+    "nivel": "PB"
+  },
+  {
+    "id": 16,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Civil",
+    "ordinal": "Décimo Sexto",
+    "nombre": "Décimo Sexto Tribunal Colegiado en materia Civil",
+    "acceso": 6,
+    "nivel": "NP"
+  },
+  {
+    "id": 17,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Primero",
+    "nombre": "Primero Tribunal Colegiado en materia Trabajo",
+    "acceso": 2,
+    "nivel": "NP"
+  },
+  {
+    "id": 18,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Tribunal Colegiado en materia Trabajo",
+    "acceso": 2,
+    "nivel": "PB"
+  },
+  {
+    "id": 19,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Tercero",
+    "nombre": "Tercero Tribunal Colegiado en materia Trabajo",
+    "acceso": 1,
+    "nivel": "2"
+  },
+  {
+    "id": 20,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Cuarto",
+    "nombre": "Cuarto Tribunal Colegiado en materia Trabajo",
+    "acceso": 2,
+    "nivel": "1"
+  },
+  {
+    "id": 21,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Quinto",
+    "nombre": "Quinto Tribunal Colegiado en materia Trabajo",
+    "acceso": 2,
+    "nivel": "2"
+  },
+  {
+    "id": 22,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Sexto",
+    "nombre": "Sexto Tribunal Colegiado en materia Trabajo",
+    "acceso": 2,
+    "nivel": "2"
+  },
+  {
+    "id": 23,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Séptimo",
+    "nombre": "Séptimo Tribunal Colegiado en materia Trabajo",
+    "acceso": 6,
+    "nivel": "1"
+  },
+  {
+    "id": 24,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Octavo",
+    "nombre": "Octavo Tribunal Colegiado en materia Trabajo",
+    "acceso": 14,
+    "nivel": "1"
+  },
+  {
+    "id": 25,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Noveno",
+    "nombre": "Noveno Tribunal Colegiado en materia Trabajo",
+    "acceso": 14,
+    "nivel": "2"
+  },
+  {
+    "id": 26,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo",
+    "nombre": "Décimo Tribunal Colegiado en materia Trabajo",
+    "acceso": 12,
+    "nivel": "NP"
+  },
+  {
+    "id": 27,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Primero",
+    "nombre": "Décimo Primero Tribunal Colegiado en materia Trabajo",
+    "acceso": 11,
+    "nivel": "1"
+  },
+  {
+    "id": 28,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Segundo",
+    "nombre": "Décimo Segundo Tribunal Colegiado en materia Trabajo",
+    "acceso": 6,
+    "nivel": "2"
+  },
+  {
+    "id": 29,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Tercero",
+    "nombre": "Décimo Tercero Tribunal Colegiado en materia Trabajo",
+    "acceso": 7,
+    "nivel": "2"
+  },
+  {
+    "id": 30,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Cuarto",
+    "nombre": "Décimo Cuarto Tribunal Colegiado en materia Trabajo",
+    "acceso": 7,
+    "nivel": "1"
+  },
+  {
+    "id": 31,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Quinto",
+    "nombre": "Décimo Quinto Tribunal Colegiado en materia Trabajo",
+    "acceso": 6,
+    "nivel": "1"
+  },
+  {
+    "id": 32,
+    "tipo": "Tribunal Colegiado",
+    "materia": "Trabajo",
+    "ordinal": "Décimo Sexto",
+    "nombre": "Décimo Sexto Tribunal Colegiado en materia Trabajo",
+    "acceso": 6,
+    "nivel": "PB"
+  },
+  {
+    "id": 33,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Primero",
+    "nombre": "Primero Juzgado de Distrito en materia Civil",
+    "acceso": 3,
+    "nivel": "NP"
+  },
+  {
+    "id": 34,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Juzgado de Distrito en materia Civil",
+    "acceso": 3,
+    "nivel": "NP"
+  },
+  {
+    "id": 35,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Tercero",
+    "nombre": "Tercero Juzgado de Distrito en materia Civil",
+    "acceso": 3,
+    "nivel": "1"
+  },
+  {
+    "id": 36,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Cuarto",
+    "nombre": "Cuarto Juzgado de Distrito en materia Civil",
+    "acceso": 3,
+    "nivel": "1"
+  },
+  {
+    "id": 37,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Quinto",
+    "nombre": "Quinto Juzgado de Distrito en materia Civil",
+    "acceso": 5,
+    "nivel": "2"
+  },
+  {
+    "id": 38,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Sexto",
+    "nombre": "Sexto Juzgado de Distrito en materia Civil",
+    "acceso": 3,
+    "nivel": "2"
+  },
+  {
+    "id": 39,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Séptimo",
+    "nombre": "Séptimo Juzgado de Distrito en materia Civil",
+    "acceso": 14,
+    "nivel": "NP"
+  },
+  {
+    "id": 40,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Octavo",
+    "nombre": "Octavo Juzgado de Distrito en materia Civil",
+    "acceso": 14,
+    "nivel": "PB"
+  },
+  {
+    "id": 41,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Noveno",
+    "nombre": "Noveno Juzgado de Distrito en materia Civil",
+    "acceso": 11,
+    "nivel": "NP"
+  },
+  {
+    "id": 42,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Décimo",
+    "nombre": "Décimo Juzgado de Distrito en materia Civil",
+    "acceso": 10,
+    "nivel": "NP"
+  },
+  {
+    "id": 43,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Décimo Primero",
+    "nombre": "Décimo Primero Juzgado de Distrito en materia Civil",
+    "acceso": 6,
+    "nivel": "NP"
+  },
+  {
+    "id": 44,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Décimo Segundo",
+    "nombre": "Décimo Segundo Juzgado de Distrito en materia Civil",
+    "acceso": 8,
+    "nivel": "NP"
+  },
+  {
+    "id": 45,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Décimo Tercero",
+    "nombre": "Décimo Tercero Juzgado de Distrito en materia Civil",
+    "acceso": 16,
+    "nivel": "PB"
+  },
+  {
+    "id": 46,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Civil",
+    "ordinal": "Décimo Cuarto",
+    "nombre": "Décimo Cuarto Juzgado de Distrito en materia Civil",
+    "acceso": 5,
+    "nivel": "1"
+  },
+  {
+    "id": 47,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Primero",
+    "nombre": "Primero Juzgado de Distrito en materia Trabajo",
+    "acceso": 2,
+    "nivel": "NP"
+  },
+  {
+    "id": 48,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Juzgado de Distrito en materia Trabajo",
+    "acceso": 5,
+    "nivel": "NP"
+  },
+  {
+    "id": 49,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Tercero",
+    "nombre": "Tercero Juzgado de Distrito en materia Trabajo",
+    "acceso": 10,
+    "nivel": "NP"
+  },
+  {
+    "id": 50,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Cuarto",
+    "nombre": "Cuarto Juzgado de Distrito en materia Trabajo",
+    "acceso": 14,
+    "nivel": "2"
+  },
+  {
+    "id": 51,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Quinto",
+    "nombre": "Quinto Juzgado de Distrito en materia Trabajo",
+    "acceso": 3,
+    "nivel": "2"
+  },
+  {
+    "id": 52,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Sexto",
+    "nombre": "Sexto Juzgado de Distrito en materia Trabajo",
+    "acceso": 14,
+    "nivel": "1"
+  },
+  {
+    "id": 53,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Séptimo",
+    "nombre": "Séptimo Juzgado de Distrito en materia Trabajo",
+    "acceso": 2,
+    "nivel": "PB"
+  },
+  {
+    "id": 54,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Octavo",
+    "nombre": "Octavo Juzgado de Distrito en materia Trabajo",
+    "acceso": 6,
+    "nivel": "PB"
+  },
+  {
+    "id": 55,
+    "tipo": "Juzgado de Distrito",
+    "materia": "Trabajo",
+    "ordinal": "Noveno",
+    "nombre": "Noveno Juzgado de Distrito en materia Trabajo",
+    "acceso": 10,
+    "nivel": "PB"
+  },
+  {
+    "id": 56,
+    "tipo": "Juzgado de Distrito Auxiliar",
+    "materia": "Auxiliar",
+    "ordinal": "Primero",
+    "nombre": "Primero Juzgado de Distrito Auxiliar",
+    "acceso": 3,
+    "nivel": "PB"
+  },
+  {
+    "id": 57,
+    "tipo": "Juzgado de Distrito Auxiliar",
+    "materia": "Auxiliar",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Juzgado de Distrito Auxiliar",
+    "acceso": 9,
+    "nivel": "NP"
+  },
+  {
+    "id": 58,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Primero",
+    "nombre": "Primero Juzgado de Extinción de Dominio",
+    "acceso": 3,
+    "nivel": "PB"
+  },
+  {
+    "id": 59,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Segundo",
+    "nombre": "Segundo Juzgado de Extinción de Dominio",
+    "acceso": 5,
+    "nivel": "PB"
+  },
+  {
+    "id": 60,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Tercero",
+    "nombre": "Tercero Juzgado de Extinción de Dominio",
+    "acceso": 11,
+    "nivel": "NP"
+  },
+  {
+    "id": 61,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Cuarto",
+    "nombre": "Cuarto Juzgado de Extinción de Dominio",
+    "acceso": 2,
+    "nivel": "1"
+  },
+  {
+    "id": 62,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Quinto",
+    "nombre": "Quinto Juzgado de Extinción de Dominio",
+    "acceso": 2,
+    "nivel": "1"
+  },
+  {
+    "id": 63,
+    "tipo": "Juzgado de Extinción de Dominio",
+    "materia": "Extinción de dominio",
+    "ordinal": "Sexto",
+    "nombre": "Sexto Juzgado de Extinción de Dominio",
+    "acceso": 3,
+    "nivel": "PB"
+  }
+]

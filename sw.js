@@ -1,0 +1,1 @@
+const C='jm-v2',A=['./','./index.html','./manifest.webmanifest','./icon.svg','./assets/directorio_oficial.jpeg','./assets/croquis_juzgados.jpeg','./assets/croquis_colegiados.jpeg'];self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
