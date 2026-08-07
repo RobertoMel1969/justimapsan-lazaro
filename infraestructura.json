@@ -1,0 +1,69 @@
+{
+  "direccion": "Sidar y Rovirosa 169, El Parque, Venustiano Carranza, 15960 Ciudad de México, CDMX",
+  "entrada_principal": {
+    "entre_accesos": [
+      2,
+      3
+    ],
+    "entrada_salida": true,
+    "caseta_vigilancia": true,
+    "revision_mochilas": true
+  },
+  "elevadores": {
+    "cada_acceso": true
+  },
+  "conexiones_pb": [
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      11,
+      10
+    ],
+    [
+      13,
+      12
+    ],
+    [
+      15,
+      14
+    ]
+  ],
+  "escaleras_centrales": [
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      11,
+      10
+    ],
+    [
+      13,
+      12
+    ],
+    [
+      15,
+      14
+    ]
+  ],
+  "sanitarios": {
+    "nivel": "PB"
+  },
+  "cafeteria": {
+    "nivel": "NP",
+    "entre_accesos": [
+      10,
+      6
+    ]
+  }
+}
